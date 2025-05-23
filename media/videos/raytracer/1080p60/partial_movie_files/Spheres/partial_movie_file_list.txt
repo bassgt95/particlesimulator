@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bassg/Desktop/misc docs/manim project/particle_simulator/media/videos/raytracer/1080p60/partial_movie_files/Spheres/3977891868_3644383913_2960037859.mp4'
