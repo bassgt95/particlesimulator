@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/bassg/Desktop/misc docs/manim project/particle_simulator/media/videos/billboardedsphere/1080p60/partial_movie_files/BillboardedShadedSphere/3977891868_2688965532_3707390883.mp4'
